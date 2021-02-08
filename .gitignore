@@ -1,0 +1,5 @@
+venv
+.cache
+client_secrets.json
+spotify_secrets.py
+token.pickle
